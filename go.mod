@@ -10,15 +10,12 @@ require (
 	github.com/bugsnag/panicwrap v1.3.4 // indirect
 	github.com/docker/go-metrics v0.0.1 // indirect
 	github.com/docker/libtrust v0.0.0-20160708172513-aabc10ec26b7 // indirect
-	github.com/fatih/color v1.13.0 // indirect
 	github.com/garyburd/redigo v1.6.3 // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-logr/logr v0.2.1
-	github.com/go-logr/zapr v0.2.0 // indirect
 	github.com/goccy/go-yaml v1.9.5
 	github.com/gorilla/handlers v1.5.1 // indirect
 	github.com/integr8ly/grafana-operator/v3 v3.10.3
-	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/onsi/ginkgo v1.14.0
 	github.com/onsi/gomega v1.10.1
 	github.com/openshift/api v3.9.1-0.20190924102528-32369d4db2ad+incompatible
@@ -27,11 +24,11 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus-operator/prometheus-operator v0.43.0
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.43.0
+	github.com/redhat-developer/observability-operator/v3 v3.0.10
 	github.com/sirupsen/logrus v1.8.1
 	github.com/yvasiyarov/go-metrics v0.0.0-20150112132944-c25f46c4b940 // indirect
 	github.com/yvasiyarov/gorelic v0.0.7 // indirect
 	github.com/yvasiyarov/newrelic_platform_go v0.0.0-20160601141957-9c099fbc30e9 // indirect
-	golang.org/x/sys v0.0.0-20220227234510-4e6760a101f9 // indirect
 	k8s.io/api v0.19.2
 	k8s.io/apimachinery v0.19.2
 	k8s.io/client-go v12.0.0+incompatible
